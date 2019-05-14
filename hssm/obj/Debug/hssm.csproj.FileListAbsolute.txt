@@ -1,0 +1,8 @@
+c:\users\add\documents\visual studio 2015\Projects\hssm\hssm\bin\Debug\hssm.exe
+c:\users\add\documents\visual studio 2015\Projects\hssm\hssm\bin\Debug\hssm.pdb
+c:\users\add\documents\visual studio 2015\Projects\hssm\hssm\obj\Debug\hssm.csprojResolveAssemblyReference.cache
+c:\users\add\documents\visual studio 2015\Projects\hssm\hssm\obj\Debug\hssm.StartGame.resources
+c:\users\add\documents\visual studio 2015\Projects\hssm\hssm\obj\Debug\hssm.Properties.Resources.resources
+c:\users\add\documents\visual studio 2015\Projects\hssm\hssm\obj\Debug\hssm.csproj.GenerateResource.Cache
+c:\users\add\documents\visual studio 2015\Projects\hssm\hssm\obj\Debug\hssm.exe
+c:\users\add\documents\visual studio 2015\Projects\hssm\hssm\obj\Debug\hssm.pdb
